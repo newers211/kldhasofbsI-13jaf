@@ -1,4 +1,4 @@
-aiogram==3.0.0b7
+aiogram==3.0.10
+aiocryptopay==0.4.0
 aiosqlite>=0.17.0
 python-dotenv>=1.0.0
-aiocryptopay>=0.4.0
